@@ -1,2 +1,2 @@
 # mobileautomationrobot
-Mobile Automation using Robot Framework and Appium
+Mobile Automation using Robot Framework with Appium Library.
